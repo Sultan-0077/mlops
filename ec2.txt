@@ -1,0 +1,3 @@
+#!/bin/bash
+
+"tetsing ec2 server"
