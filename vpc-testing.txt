@@ -1,0 +1,4 @@
+
+"vpc is not working"
+"check whether it is connected to IGW or not"
+
